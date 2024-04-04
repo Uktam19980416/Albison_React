@@ -1,0 +1,344 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "articul": 1,
+      "title": "Product 1",
+      "size": "12.3 x 14.6 x 4.3 м.",
+      "area": "33 м2",
+      "capacity": 15,
+      "guarantee": 10,
+      "price": {
+        "old": 6127500,
+        "new": 5023900,
+        "sale": 25
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "gazebos"
+    },
+    {
+      "id": 2,
+      "articul": 2,
+      "title": "Product 2",
+      "size": "10 x 12 x 3 м.",
+      "area": "30 м2",
+      "capacity": 10,
+      "guarantee": 5,
+      "price": {
+        "old": 5000000,
+        "new": 4000000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "baths"
+    },
+    {
+      "id": 3,
+      "articul": 3,
+      "title": "Product 3",
+      "size": "8 x 10 x 2 м.",
+      "area": "20 м2",
+      "capacity": 8,
+      "guarantee": 3,
+      "price": {
+        "old": 3000000,
+        "new": 2500000,
+        "sale": 15
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "site"
+    },
+    {
+      "id": 4,
+      "articul": 4,
+      "title": "Product 4",
+      "size": "6 x 8 x 2 м.",
+      "area": "15 м2",
+      "capacity": 6,
+      "guarantee": 2,
+      "price": {
+        "old": 2000000,
+        "new": 1800000,
+        "sale": 10
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "home"
+    },
+    {
+      "id": 5,
+      "articul": 5,
+      "title": "Product 5",
+      "size": "5 x 6 x 2 м.",
+      "area": "10 м2",
+      "capacity": 4,
+      "guarantee": 1,
+      "price": {
+        "old": 1500000,
+        "new": 1200000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "pergolas"
+    },
+    {
+      "id": 6,
+      "articul": 6,
+      "title": "Product 6",
+      "size": "4 x 5 x 2 м.",
+      "area": "8 м2",
+      "capacity": 3,
+      "guarantee": 1,
+      "price": {
+        "old": 1000000,
+        "new": 900000,
+        "sale": 10
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "brands"
+    },
+    {
+      "id": 7,
+      "articul": 7,
+      "title": "Product 7",
+      "size": "3 x 4 x 2 м.",
+      "area": "6 м2",
+      "capacity": 2,
+      "guarantee": 1,
+      "price": {
+        "old": 800000,
+        "new": 700000,
+        "sale": 10
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "baths"
+    },
+    {
+      "id": 8,
+      "articul": 8,
+      "title": "Product 8",
+      "size": "2 x 3 x 2 м.",
+      "area": "4 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 600000,
+        "new": 500000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "gazebos"
+    },
+    {
+      "id": 9,
+      "articul": 9,
+      "title": "Product 9",
+      "size": "1 x 2 x 2 м.",
+      "area": "2 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 400000,
+        "new": 300000,
+        "sale": 25
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "home"
+    },
+    {
+      "id": 10,
+      "articul": 10,
+      "title": "Product 10",
+      "size": "0.5 x 1 x 2 м.",
+      "area": "1 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 200000,
+        "new": 150000,
+        "sale": 25
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "xit",
+      "filter": "pergolas"
+    },
+    {
+      "id": 11,
+      "articul": 11,
+      "title": "Product 11",
+      "size": "10 x 10 x 2 м.",
+      "area": "20 м2",
+      "capacity": 5,
+      "guarantee": 2,
+      "price": {
+        "old": 2500000,
+        "new": 2000000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "brands"
+    },
+    {
+      "id": 12,
+      "articul": 12,
+      "title": "Product 12",
+      "size": "8 x 8 x 2 м.",
+      "area": "16 м2",
+      "capacity": 4,
+      "guarantee": 2,
+      "price": {
+        "old": 2000000,
+        "new": 1600000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "site"
+    },
+    {
+      "id": 13,
+      "articul": 13,
+      "title": "Product 13",
+      "size": "6 x 6 x 2 м.",
+      "area": "12 м2",
+      "capacity": 3,
+      "guarantee": 1,
+      "price": {
+        "old": 1500000,
+        "new": 1200000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "baths"
+    },
+    {
+      "id": 14,
+      "articul": 14,
+      "title": "Product 14",
+      "size": "4 x 4 x 2 м.",
+      "area": "8 м2",
+      "capacity": 2,
+      "guarantee": 1,
+      "price": {
+        "old": 1000000,
+        "new": 800000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "site"
+    },
+    {
+      "id": 15,
+      "articul": 15,
+      "title": "Product 15",
+      "size": "2 x 2 x 2 м.",
+      "area": "4 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 500000,
+        "new": 400000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "pergolas"
+    },
+    {
+      "id": 16,
+      "articul": 16,
+      "title": "Product 16",
+      "size": "1 x 1 x 2 м.",
+      "area": "2 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 300000,
+        "new": 240000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "home"
+    },
+    {
+      "id": 17,
+      "articul": 17,
+      "title": "Product 17",
+      "size": "0.5 x 0.5 x 2 м.",
+      "area": "1 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 150000,
+        "new": 120000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "brands"
+    },
+    {
+      "id": 18,
+      "articul": 18,
+      "title": "Product 18",
+      "size": "0.3 x 0.3 x 2 м.",
+      "area": "0.18 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 100000,
+        "new": 80000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "gazebos"
+    },
+    {
+      "id": 19,
+      "articul": 19,
+      "title": "Product 19",
+      "size": "0.2 x 0.2 x 2 м.",
+      "area": "0.08 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 50000,
+        "new": 40000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "pergolas"
+    },
+    {
+      "id": 20,
+      "articul": 20,
+      "title": "Product 20",
+      "size": "0.1 x 0.1 x 2 м.",
+      "area": "0.02 м2",
+      "capacity": 1,
+      "guarantee": 1,
+      "price": {
+        "old": 25000,
+        "new": 20000,
+        "sale": 20
+      },
+      "image": "../src/assets/img/xit.png",
+      "status": "onSale",
+      "filter": "site"
+    }
+  ]
+}

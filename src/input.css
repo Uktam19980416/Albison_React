@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Museo Sans Cyrl', sans-serif;
+  }
+}
+
+#menu-toggle:checked ~ .toggled-bar {
+  left: 0;
+}
+#menu-toggle:checked ~ body {
+  left: 0;
+}
+.shadow-for-img {
+  box-shadow: -15px 15px rgba(190, 190, 190, 0.5);
+  border-radius: 5px;
+}
+
+#forCategory:checked ~ .categoryDropdown {
+  display: block;
+  transition: display 0.5s ease-in-out;
+  height: 0;
+}
+
+@media (max-width: 768px) {
+  .shadow-for-img {
+    box-shadow: none;
+  }
+}
+
+.dark-mode {
+  background-color: #272626;
+  color: rgb(234, 234, 234);
+}
